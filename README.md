@@ -17,6 +17,12 @@ You can reach out to me through palomavieiraborges@hotmail.com, and I'm also on 
   Built pipelines (web scraping, OCR, APIs, NLP) + tested **ranking models** (Elo, Keener).  
   Delivered a **centralized database + predictive insights** for Olympic preparation.
 
+- 🎶 [SoundScapes: Spotify Trends Explorer](https://github.com/palomavb/final-project-soundscapes)  
+  Developed an **interactive web application** to analyze Spotify’s most popular tracks (2000–2019).  
+  Combined **data visualization and scrollytelling** to let users explore audio features, genre trends, and musical landscapes over time.  
+  Tech stack: **JavaScript, D3.js, HTML, CSS**. Focus: **data storytelling, user interaction, and exploratory analysis**.  
+
+
 <p align="left">
 <a href="https://linkedin.com/in/palomavieiraborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palomavieiraborges" height="30" width="40" /></a>
 </p>
