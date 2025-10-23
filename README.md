@@ -8,7 +8,6 @@ You can reach out to me through palomavieiraborges@hotmail.com, and I'm also on 
 
 - 🔍 Passionate about **turning data into actionable insights** for business and education.  
 - 📈 Experience with **SQL, Python, and Power BI** for reporting automation, KPI tracking, and dashboards.  
-- 🌍 Native Portuguese | Fluent in English
 - 📸 I'm into reading and photography for fun!
 
 ## Featured Projects
